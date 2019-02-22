@@ -8,9 +8,7 @@ def fizzbuzz
     "Buzz"
   elsif int % 3 == 0 && int % 5 == 0 
     "Fizzbuzz"
-    
   end
-  
 end
 
 fizzbuzz(3) 
